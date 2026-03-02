@@ -1,0 +1,8 @@
+target/
+*/target/
+*.log
+*.tmp
+*.idea/
+*.iml
+.DS_Store
+.mvn/wrapper/
